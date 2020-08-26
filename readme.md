@@ -12,8 +12,6 @@ Do you love to bike? I do. Follow my biking journeys on Strava or on my Instagra
 - 👯 I’m looking to collaborate on ... Machine Learning Research
 - 🤔 I’m looking for help with ... Anything.
 - 💬 Ask me about ... Anything.
-- 📫 How to reach me: ... 
-    - [Linkedin](https://www.linkedin.com/in/bhavinjawade/)
-    - [Twitter](https://www.linkedin.com/in/bhavinjawade/)
+- 📫 Reach me out at: [Linkedin](https://www.linkedin.com/in/bhavinjawade/), [Twitter](https://www.linkedin.com/in/bhavinjawade/)
 - ⚡ I like to: ... Bike, bike, bike and explore the dark sky. 
 - 🚀 Contribute to: You love python? You love algorithms? Contribute to the this [repository](https://github.com/bhavinjawade/Advanced-Data-Structures-with-Python)
