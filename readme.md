@@ -4,7 +4,7 @@ I am a graduate student at the University of Buffalo, State University of New Yo
 
 Want to know more, visit my [Website](https://www.bhavinjawade.github.io), follow me on [Twitter](https://twitter.com/bhavinjawade), or connect with me on [Linkedin](https://www.linkedin.com/in/bhavinjawade/). 
 
-Do you love to bike? I do. Follow my biking journeys on [Strava](https://www.strava.com/athletes/62071195) or on my [Instagram](https://www.instagram.com/bhavin.jawade/).
+Do you love to bike? I do too. Follow my biking journeys on [Strava](https://www.strava.com/athletes/62071195) or on my [Instagram](https://www.instagram.com/bhavin.jawade/).
 
 
 - 🔭 I’m currently working as ... Research Assistant at [CUBS Lab, UB](https://www.buffalo.edu/cubs.html)
