@@ -1,6 +1,6 @@
 ###  Hi! I am Bhavin Jawade👋
 
-I am a Graduate Student and Research Assistant (RA) at the University of Buffalo, State University of New York, pursuing Masters in Computer Science. I am a Research Assistant at CUBS Lab (Center for unified biometrics and sensors) at UB. Previously I worked as a software engineer at Persistent Systems, Pune. My research interest lies in Computer vision, Reinforcement Learning, and Algorithms. 
+I am a Graduate Student at the University of Buffalo, State University of New York, pursuing Masters in Computer Science. I am also a Research Assistant at CUBS Lab (Center for unified biometrics and sensors) at UB. Previously I worked as a software engineer at Persistent Systems, Pune. My research interest lies in Computer vision, Reinforcement Learning, and Algorithms. 
 
 Want to know more, visit my [Website](http://bhavinjawade.github.io/), follow me on [Twitter](https://twitter.com/bhavinjawade), or connect with me on [Linkedin](https://www.linkedin.com/in/bhavinjawade/). 
 
